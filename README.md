@@ -45,7 +45,7 @@ Python-based analysis for user behavior and business decisions
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(add link)*
-- 📧 Email: *(optional)*
+- 💼 LinkedIn: www.linkedin.com/in/eliyaa
+- 📧 Email: abeliya420@gmail.com
 
 ⭐ If you like my work, feel free to star a repo!
