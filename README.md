@@ -10,7 +10,7 @@ I’m a Python Developer and Data Analyst with 4+ years of experience working on
 - 🐍 Strong in **Python**, **SQL**, and data analysis
 - 📈 Experienced with **Tableau**, **Excel**, and data visualization
 - 🤖 Interested in **Machine Learning**, **LLMs**, and prompt engineering
-- 🌍 Worked on large-scale datasets (BARC India, churn & impact analysis)
+- 🌍 Worked on large-scale datasets (Churn & impact analysis)
 - ☁️ Currently learning **AWS Cloud**
 
 ---
