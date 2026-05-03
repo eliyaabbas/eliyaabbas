@@ -2,7 +2,7 @@
 
 🚀 Python Developer | 📊 Data Analyst | 🤖 ML & LLM Enthusiast  
 
-I’m a Python Developer and Data Analyst with 4+ years of experience working on real-world data problems, automation, and analytics-driven applications.
+I’m a Python Developer and Data Analyst with 2+ years of experience working on real-world data problems, automation, and analytics-driven applications.
 
 ---
 
