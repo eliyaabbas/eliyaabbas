@@ -62,11 +62,11 @@ I am a **Software Engineer** and **Data Analyst** currently working as a **Full 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eliyaabbas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=eliyaabbas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eliyaabbas&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=eliyaabbas&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
