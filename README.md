@@ -5,7 +5,7 @@
 
 > **Building intelligent, data-driven software solutions with modern full-stack technologies & AI.**
 
-I am a **Software Engineer** and **Data Analyst** currently working as a **Full Stack Developer** at **Innoviscent LPP**. I specialize in building modern web applications and extracting actionable insights from data using Python, SQL, and BI tools. I'm a firm believer in **"Vibe Coding"**—leveraging AI tools to accelerate development while maintaining high-quality, production-grade code.
+I am a **Software Engineer** and **Data Analyst** currently working as a **Software Engineer** at **Innoviscent LPP**. I specialize in building modern web applications and extracting actionable insights from data using Python, SQL, and BI tools. I'm a firm believer in **"Vibe Coding"**—leveraging AI tools to accelerate development while maintaining high-quality, production-grade code.
 
 ---
 
