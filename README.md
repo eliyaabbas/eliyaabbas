@@ -50,22 +50,6 @@ I'm a **Business Analyst** at **Innoviscent LLP**, working across dashboards, st
 
 ### 🚀 Featured Projects
 
-#### 🤝 ShiaConnection
-A LinkedIn-style professional networking platform for the Shia community, built as a microservices architecture (13 services). Real-time messaging via Socket.io, `better-auth`, PostgreSQL/Supabase, Redis, with a Next.js + TanStack Query + Zustand frontend.
-- **Tech:** `Node.js`, `Express`, `Next.js`, `PostgreSQL`, `Supabase`, `Redis`, `Socket.io`, `Sequelize`, `Tailwind`
-
-#### 🧹 PureNest
-A web app built for a cleaning business in New Zealand, with automated email workflows.
-- **Tech:** `React`, `Node.js`, `Nodemailer`, deployed on `Netlify` + `Render`
-
-#### 🏗️ Steel Trading Business App
-A business management app for a steel trading client, built with AI-accelerated development.
-- **Tech:** `React`, `Vite`, `Node.js`, `Express`, `Prisma`, `PostgreSQL (Neon)`, `Railway`
-
-#### 🛒 Price Compliance & Audit System
-A monitoring system for a baby-products client to detect unauthorized price drops across Amazon, Flipkart, Zepto, and Blinkit, with a full audit trail.
-- **Tech:** `Playwright`, `Node.js`, `React`, `PostgreSQL`
-
 #### 🗜️ Zip Utility App *(in progress)*
 A redesigned, faster alternative to legacy zip-file-creator tools, built AI-first with an LLM-guided project structure.
 - **Tech:** `Astro.js`, SEO-first architecture
