@@ -1,11 +1,13 @@
 # Hi, I'm Eliya Abbas Sayyed 👋
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=500&lines=Business+Analyst;Full+Stack+Developer;Data+%26+BI+Analyst;GenAI+%26+Agentic+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=500&lines=Business+Analyst;Data+%26+BI+Analyst;Full+Stack+Developer;GenAI+%26+Agentic+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
-> **Turning data into decisions and ideas into shipped software — with modern full-stack tools and AI-driven workflows.**
+> **Turning data into decisions and ideas into shipped software, with modern full-stack tools and AI-driven workflows.**
 
-I'm a **Business Analyst** at **Innoviscent LLP**, working across dashboards, stakeholder reporting, SQL, and data validation — alongside a parallel track building full-stack web apps and exploring AI/agentic engineering. My background spans **data analytics, BI development, and full-stack engineering**, and I'm a firm believer in **"Vibe Coding"** — leveraging AI coding agents to move fast without sacrificing quality.
+I'm a **Business Analyst** at **Innoviscent LLP**, working across dashboards, stakeholder reporting, SQL, and data validation. Alongside that, I build full-stack products and explore AI/agentic engineering. My background spans **data analytics, BI development, and full-stack engineering**, and I use AI coding agents (what I call "Vibe Coding") to move fast without sacrificing quality.
+
+📍 Mumbai, India · 🗣️ English, Hindi, Marathi
 
 ---
 
@@ -14,9 +16,9 @@ I'm a **Business Analyst** at **Innoviscent LLP**, working across dashboards, st
 ---
 
 ### 🧠 Expertise & Focus
-- 📊 **Data & BI Analytics:** Building dashboards and reports with Tableau, Power BI, and Excel; writing SQL for data cleaning, validation, and stakeholder reporting. 15+ dashboards/reports shipped across freelance, internship, and full-time roles.
-- 🚀 **Full Stack Development:** Building production apps end-to-end with React, Next.js, Node.js/Express, FastAPI, and Astro — from client business tools to a microservices-based social platform.
-- 🤖 **GenAI & Agentic AI:** Hands-on with LLM training/evaluation, LangChain, LlamaIndex, and MCP; using Claude Code, Gemini CLI, GPT Codex, and Antigravity CLI as daily AI-assisted dev tools.
+- 📊 **Data & BI Analytics:** Dashboards and reports in Tableau, Power BI, and Excel; SQL for data cleaning, validation, and stakeholder reporting. 15+ dashboards/reports shipped across freelance, internship, and full-time roles.
+- 🚀 **Full Stack Development:** Production apps end-to-end with React, Next.js, Node.js/Express, FastAPI, and Astro, from client business tools to a microservices-based networking platform.
+- 🤖 **GenAI & Agentic AI:** LLM training/evaluation, LangChain, LlamaIndex, and MCP; Claude Code, Gemini CLI, GPT Codex, and Antigravity CLI as daily dev tools.
 - 🕸️ **Automation & Scraping:** Playwright-based scraping pipelines for marketplace price monitoring and compliance auditing (Amazon, Flipkart, Blinkit, Zepto, Instamart).
 
 ---
@@ -37,27 +39,39 @@ I'm a **Business Analyst** at **Innoviscent LLP**, working across dashboards, st
 
 ### 💼 Experience
 
-- **Business Analyst** — Innoviscent LLP *(Mar 2026 – Present)*: Build and maintain dashboards, run stakeholder meetings, clean/validate data, and write SQL for reporting.
-- **LLM Trainer, Project Marlin** — Airdawgs *(Dec 2024 – Feb 2026)*
-- **Data Scientist Intern (Part-time)** — The SkyBrisk *(Nov 2025 – Apr 2026)*
-- **Freelance Tableau Developer** — Contract, HR data analytics for a US client *(Jul 2024 – Nov 2025)*
-- **Data Analyst Intern** — One IT Tech *(Mar 2024 – Aug 2024)*
-- **Data Science Intern** — CodSoft *(Jun 2023 – Sep 2023)*
+- **Business Analyst**, Innoviscent LLP *(Mar 2026 – Present)*: Build and maintain dashboards, run stakeholder meetings, clean and validate data, and write SQL for reporting.
+- **LLM Trainer, Project Marlin**, Airdawgs *(Dec 2024 – Feb 2026)*: LLM training and evaluation work.
+- **Data Scientist Intern (Part-time)**, The SkyBrisk *(Nov 2025 – Apr 2026)*: Python EDA, SQL extraction, feature engineering, and analytical models.
+- **Freelance Tableau Developer**, Contract, HR data analytics for a US client *(Jul 2024 – Nov 2025)*
+- **Data Analyst**, One IT Tech *(Mar 2024 – Aug 2024)*
+- **Data Science Intern**, CodSoft *(Jun 2023 – Sep 2023)*
 
-15+ dashboards/reports delivered across these roles and personal projects; Tableau Public portfolio has 270+ views across 5 dashboards.
+15+ dashboards/reports delivered across these roles and personal projects. My Tableau Public portfolio has 270+ views across 5 dashboards.
 
 ---
 
 ### 🚀 Featured Projects
+
+#### 🤝 ShiaConnection *(in progress)*
+A LinkedIn-style professional networking platform built on a microservices architecture, with real-time messaging, a custom design system, and a compact three-column UI.
+- **Tech:** `Next.js`, `TanStack Query`, `Zustand`, `Tailwind`, `Node.js`, `Express`, `Sequelize`, `PostgreSQL (Supabase)`, `Redis`, `Socket.io`
+
+#### 🛡️ Price Compliance & Audit System
+A monitoring system for a baby-products brand that tracks pricing across Amazon, Flipkart, Zepto, and Blinkit, detects unauthorized price drops, and keeps an audit trail.
+- **Tech:** `Playwright`, `Node.js`, `React`, `PostgreSQL`
+
+#### 🏗️ Client Web Apps
+- **Steel trading business management app:** `React/Vite`, `Node.js/Express`, `Prisma`, `PostgreSQL`
+- **Cleaning business web app (New Zealand):** `React`, `Node.js`, `Nodemailer`, deployed on Netlify + Render
 
 #### 🗜️ Zip Utility App *(in progress)*
 A redesigned, faster alternative to legacy zip-file-creator tools, built AI-first with an LLM-guided project structure.
 - **Tech:** `Astro.js`, SEO-first architecture
 
 #### 🧮 Utility Calculator Site *(in progress)*
-A collection of high-traffic utility calculators (starting with BMI and mortgage calculators) targeting organic + AdSense traffic — part of a broader micro-tool portfolio strategy of modernizing outdated but high-traffic utility sites.
+A collection of high-traffic utility calculators (starting with BMI and mortgage calculators) targeting organic + AdSense traffic, part of a broader micro-tool strategy of modernizing outdated but high-traffic utility sites.
 
-#### 🛡️ [DeFi Credit Scoring Model](https://github.com/eliyaabbas/DeFi-Credit-Scoring)
+#### 💳 [DeFi Credit Scoring Model](https://github.com/eliyaabbas/DeFi-Credit-Scoring)
 An ML pipeline that assigns credit scores (0–1000) to Aave V2 wallets using unsupervised KMeans clustering on raw DeFi transaction data.
 - **Tech:** `Python`, `Scikit-learn`, `Pandas`, `KMeans`, `DeFi Data`
 
@@ -70,8 +84,8 @@ A collection of analytical dashboards focusing on HR Analytics, Sales Trends, an
 - **Tech:** `Tableau`, `Power BI`, `Excel`, `SQL`
 
 #### 🎬 [Movie Recommender System](https://github.com/eliyaabbas/Movie-Recommender)
-A content-based recommendation engine leveraging NLP for feature extraction and collaborative filtering.
-- **Tech:** `Python`, `Scikit-learn`, `NLP`, `Streamlit`
+A content-based recommendation engine on the TMDB 5000 dataset, using NLP for feature extraction and cosine similarity, deployed as a Streamlit app.
+- **Tech:** `Python`, `Scikit-learn`, `NLTK`, `Streamlit`
 
 ---
 
@@ -88,8 +102,4 @@ A content-based recommendation engine leveraging NLP for feature extraction and 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=eliyaabbas&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i>
 </p>
