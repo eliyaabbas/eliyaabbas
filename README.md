@@ -5,7 +5,7 @@
 
 > **Turning data into decisions and ideas into shipped software, with modern full-stack tools and AI-driven workflows.**
 
-I'm a **Business Analyst** at **Innoviscent LLP**, working across dashboards, stakeholder reporting, SQL, and data validation. Alongside that, I build full-stack products and explore AI/agentic engineering. My background spans **data analytics, BI development, and full-stack engineering**, and I use AI coding agents (what I call "Vibe Coding") to move fast without sacrificing quality.
+I'm a **Software Engineer** at **Innoviscent LLP**, working across dashboards, stakeholder reporting, SQL, and data validation. Alongside that, I build full-stack products and explore AI/agentic engineering. My background spans **data analytics, BI development, and full-stack engineering**, and I use AI coding agents (what I call "Vibe Coding") to move fast without sacrificing quality.
 
 📍 Mumbai, India · 🗣️ English, Hindi, Marathi
 
