@@ -52,18 +52,6 @@ I'm a **Software Engineer** at **Innoviscent LLP**, working across dashboards, s
 
 ### 🚀 Featured Projects
 
-#### 🤝 ShiaConnection *(in progress)*
-A LinkedIn-style professional networking platform built on a microservices architecture, with real-time messaging, a custom design system, and a compact three-column UI.
-- **Tech:** `Next.js`, `TanStack Query`, `Zustand`, `Tailwind`, `Node.js`, `Express`, `Sequelize`, `PostgreSQL (Supabase)`, `Redis`, `Socket.io`
-
-#### 🛡️ Price Compliance & Audit System
-A monitoring system for a baby-products brand that tracks pricing across Amazon, Flipkart, Zepto, and Blinkit, detects unauthorized price drops, and keeps an audit trail.
-- **Tech:** `Playwright`, `Node.js`, `React`, `PostgreSQL`
-
-#### 🏗️ Client Web Apps
-- **Steel trading business management app:** `React/Vite`, `Node.js/Express`, `Prisma`, `PostgreSQL`
-- **Cleaning business web app (New Zealand):** `React`, `Node.js`, `Nodemailer`, deployed on Netlify + Render
-
 #### 🗜️ Zip Utility App *(in progress)*
 A redesigned, faster alternative to legacy zip-file-creator tools, built AI-first with an LLM-guided project structure.
 - **Tech:** `Astro.js`, SEO-first architecture
